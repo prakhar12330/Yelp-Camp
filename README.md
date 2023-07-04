@@ -10,10 +10,10 @@ Stack:
 Node JS, Express JS, MongoDB, Mongoose, EJS
 
 
-<h2>Gallery</h2>
+<h3>Gallery</h3>
 
 
-Home
+Home Page
 
 ![image](https://user-images.githubusercontent.com/73538719/114265389-21691600-9a23-11eb-8841-568a46e16284.png)
 
